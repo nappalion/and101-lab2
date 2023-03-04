@@ -11,8 +11,8 @@
 - [x] Lambdas
 
 **Stretch Koans:**
-- [ ] Data Classes
-- [ ] Smart Casts
-- [ ] Sealed Classes
+- [x] Data Classes
+- [x] Smart Casts
+- [x] Sealed Classes
 - [ ] Rename on Import
 - [ ] Extension Functions
